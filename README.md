@@ -82,12 +82,12 @@ Slicers for Age, Gender, Relationship Status, and Academic Level allow for segme
 
 # Key Project Insights
 Students aged 21 form the highest user group for social platforms.
-
 Male students dominate usage in the current data slice.
-
 Those in a relationship or in graduate-level education report higher daily usage.
-
 Academic impact and mental health issues are directly proportional to time spent online.
+
+# Final Conclusion
+This Power BI dashboard reveals that prolonged social media use correlates strongly with academic performance issues and mental health concerns. With Facebook and Instagram as dominant platforms, institutions and educators can strategize interventions such as digital detox programs, awareness workshops, or platform time-limiting policies. The insights also underscore the importance of balanced online behavior for better student well-being.
 
 
 
