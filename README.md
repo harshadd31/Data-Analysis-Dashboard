@@ -80,3 +80,14 @@ LinkedIn and WeChat show the least engagement among students.
 ## 6. Demographic Filters
 Slicers for Age, Gender, Relationship Status, and Academic Level allow for segmented insights.
 
+# Key Project Insights
+Students aged 21 form the highest user group for social platforms.
+
+Male students dominate usage in the current data slice.
+
+Those in a relationship or in graduate-level education report higher daily usage.
+
+Academic impact and mental health issues are directly proportional to time spent online.
+
+
+
