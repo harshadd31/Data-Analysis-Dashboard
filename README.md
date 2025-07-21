@@ -20,3 +20,28 @@ The goal of this project is to analyze the impact of social media on students' a
 - How do age, gender, relationship status, and academic level influence platform preference?
 
 - Dashboard Interaction <a herf="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/social%20media%20.png">view Dashboard</a>
+
+Project Process
+1. Data Collection
+Collected responses from students via surveys, including:
+Demographic details (Age, Gender, Relationship Status, Academic Level)
+Most Used Social Media Platform
+Average Daily Usage Hours
+Academic Performance Impact (Yes/No)
+Mental Health Score
+Country of Residence
+
+2. Data Preparation (Power Query Editor)
+Removed duplicates and cleaned null/missing values.
+Renamed columns for clarity and consistency.
+Converted appropriate columns into correct data types.
+Created calculated columns and measures using DAX:
+Count of each platform
+Average daily usage
+Mental health index per hour range
+Academic performance affected (Yes/No)
+
+3. Data Modeling
+Built relationships between fact and dimension tables.
+Developed key metrics using DAX expressions to summarize and filter visuals.
+Normalized platform names and standardized scoring mechanisms.
