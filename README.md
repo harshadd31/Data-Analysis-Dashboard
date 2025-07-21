@@ -48,3 +48,35 @@ Normalized platform names and standardized scoring mechanisms.
 
 # Dashboard 
 <img width="1657" height="958" alt="social media " src="https://github.com/user-attachments/assets/7ea56ddc-88fe-4989-a015-cc5e42572f2d" />
+
+# Dashboard Insights
+ ## 1. Most Used Platforms (Donut Chart)
+Facebook is the leading platform (37.87%), followed by Instagram (23.11%) and TikTok (22.26%).
+
+LinkedIn and WeChat are the least used.
+
+# 2. Academic Impact (Pie Chart)
+66.07% of students said social media affects their academic performance.
+
+Only 33.93% report no impact.
+
+# 3. Usage vs. Mental Health (Area Chart)
+Students using social media for 4 to 6 hours/day show a significant fluctuation in mental health scores.
+
+A peak in mental health issues appears around 5 hours/day.
+
+# 4. Platform Preference by Country (Map)
+Facebook dominates across various countries.
+
+Instagram and TikTok are more prevalent in select regions (Asia, Europe).
+
+Useful for understanding geographic platform trends.
+
+# 5. Social Media Platform Popularity (Bar Chart)
+Facebook has the highest student count, followed by TikTok and WhatsApp.
+
+LinkedIn and WeChat show the least engagement among students.
+
+# 6. Demographic Filters
+Slicers for Age, Gender, Relationship Status, and Academic Level allow for segmented insights.
+
