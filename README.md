@@ -45,3 +45,6 @@ Academic performance affected (Yes/No)
 Built relationships between fact and dimension tables.
 Developed key metrics using DAX expressions to summarize and filter visuals.
 Normalized platform names and standardized scoring mechanisms.
+
+# Dashboard 
+<img width="1657" height="958" alt="social media " src="https://github.com/user-attachments/assets/7ea56ddc-88fe-4989-a015-cc5e42572f2d" />
