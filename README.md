@@ -7,16 +7,16 @@ The goal of this project is to analyze the impact of social media on students' a
 
 ## Key Questions / KPIs
 
-* Which social media platforms are most used by students?
+- Which social media platforms are most used by students?
 
-* Does high social media usage affect students’ mental health?
+- Does high social media usage affect students’ mental health?
 
-* Is there a correlation between social media usage and academic performance?
+- Is there a correlation between social media usage and academic performance?
 
-* What are the regional trends in platform usage (country-wise distribution)?
+- What are the regional trends in platform usage (country-wise distribution)?
 
-* How many hours do students spend on social media daily?
+- How many hours do students spend on social media daily?
 
-* How do age, gender, relationship status, and academic level influence platform preference?
+- How do age, gender, relationship status, and academic level influence platform preference?
 
 - Dashboard Interaction <a herf="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/social%20media%20.png">view Dashboard</a>
