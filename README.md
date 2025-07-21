@@ -2,10 +2,10 @@
 ## Project Objective
 The goal of this project is to analyze the impact of social media on students' academic performance and mental health by studying patterns of usage across different platforms, demographics, and regions. This project also aims to identify which platforms are most popular and how average usage hours may be linked to mental well-being.
 
-## Dataset Used
+# Dataset Used
 - <a href="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/Students%20Social%20Media%20Addictionn.xlsx">Dataset</a>
 
-## Key Questions / KPIs
+# Key Questions / KPIs
 
 - Which social media platforms are most used by students?
 
@@ -21,7 +21,7 @@ The goal of this project is to analyze the impact of social media on students' a
 
 - Dashboard Interaction <a href="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/social%20media%20.png">View Dashboard</a>
 
-## Project Process
+# Project Process
 # 1. Data Collection
 Collected responses from students via surveys, including:
 Demographic details (Age, Gender, Relationship Status, Academic Level)
