@@ -19,7 +19,7 @@ The goal of this project is to analyze the impact of social media on students' a
 
 - How do age, gender, relationship status, and academic level influence platform preference?
 
-- Dashboard Interaction <a href="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/social%20media%20.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/harshadd31/Data-Analysis-Dashboard/blob/main/social%20media%20addition.pbix">View Dashboard</a>
 
 # Project Process
 ## 1. Data Collection
